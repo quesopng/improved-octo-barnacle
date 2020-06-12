@@ -1,19 +1,37 @@
 <!DOCTYPE html>
 <html>
 <style>
+ @font-face {
+  font-family: 'Karla';
+  src: url('https://fonts.googleapis.com/css2?family=Karla:ital@1&display=swap') format('truetype')
+ }
  h1 {
-  color: rgb(65, 80, 90);
+  color: rgb(173, 216, 230);
   font-size: 100px;
-  line-height: 50px;
-  font-spacing: 25px;
+  line-height: 70px;
+  font-spacing: 50px;
   font-family: 'Karla', sans-serif;
   text-align: center;
+  font-weight: 100px;
+ }
+ 
+ h2{
+   color: rgb(173, 230, 187);
+   font-size: 50px;
+   line-height: 25px;
+   font-spacing: 50px;
+   font-family: 'Karla', sans-serif;
+   text-align: center;
+   font-weight: 75;
+   font-style: italic;
  }
 </style>
-<head <link href="https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap" rel="stylesheet">
+<head> 
+  <link href="https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap" rel="stylesheet">
 </head>
 <header>
-  <h1>Welcome to 67 Useless Facts</h1>
+  <h1>Welcome to 
+  67 Useless Facts</h1>
 </header>  
 <section>
   <h2>67 Useless facts is a website created to showing you 67 random facts about any topic </h2>
