@@ -7,8 +7,11 @@
   line-height: 50px;
   font-spacing: 25px;
   font-family: 'Karla', sans-serif;
+  text-align: center;
  }
 </style>
+<head <link href="https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap" rel="stylesheet">
+</head>
 <header>
   <h1>Welcome to 67 Useless Facts</h1>
 </header>  
