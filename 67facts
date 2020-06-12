@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <header>
-  <body>This is me typing</body>
+  <h1>Welcome to 67 Useless Facts</h1>
 </header>  
+<section>
+  <h2>67 Useless facts is a website created to showing 67 random facts about any topic </h2>
+  <p> Whether you want to learn something new or sound intelligent at your next party, 67 Useless Facts is here to help you out. From facts about cooking, to the ocean, even to presidents, you'll be sure to impress anyone with your insanely specific knowldege about random topics.</p>
+</section>
 </html>
+
