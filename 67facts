@@ -27,12 +27,25 @@
    font-spacing: 50px;
    font-family: 'Karla', sans-serif;
    text-align: center;
-   font-weight: 75;
-   font-style: italic;
+   font-weight: 75px;
+   font-style: bold;
    margin: auto;
    padding: 100px;
    max-width: 700px;
    max-height: 100px;
+   overflow: scroll;
+ }
+ .introparagraph {
+   color: rgb(173, 230, 187)
+   font-size: 25px;
+   line-height: 100px;
+   font-spacing: 60px;
+   font-family: 'Karla', sans-serif;
+   text-align: center;
+   font-weight: 75px;
+   font-style: italics;
+   margin: auto;
+   padding: 100px;
    overflow: scroll;
  }
 </style>
@@ -45,7 +58,7 @@
 </header>  
 <section>
   <h2>67 Useless facts is a website created to showing you 67 random facts about any topic </h2>
-  <p> Whether you want to learn something new or sound intelligent at your next party, 67 Useless Facts is here to help you out. From facts about cooking, to the ocean, even to presidents, you'll be sure to impress anyone with your insanely specific knowldege about random topics.</p>
+  <p class="introparagraph"> Whether you want to learn something new or sound intelligent at your next party, 67 Useless Facts is here to help you out. From facts about cooking, to the ocean, even to presidents, you'll be sure to impress anyone with your insanely specific knowldege about random topics.</p>
   <br>
   <p>In order to make your learning experience easier, click one of the links below to take you to a topic that you are interested in.</p>
   <ul>Topics</ul>
@@ -58,7 +71,7 @@
     <li>Languages</li>
     <li>Humans</li>
     <li>Animals</li>
-<h2>Happy Learning!</<h2>
+<h3>Happy Learning!</h3>
 </section>
 </html>
 
