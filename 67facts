@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html>
-<header>
+<style>
+ .banner {
+   background-color: black;
+ }
+ h1 {
+  color: white;
+  font-size: 100px;
+  line-height: 50px;
+  font-spacing: 25px;
+  font-family: 'Karla', sans-serif;
+ }
+</style>
+<header id="banner">
   <h1>Welcome to 67 Useless Facts</h1>
 </header>  
 <section>
