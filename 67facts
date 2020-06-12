@@ -8,20 +8,17 @@
   <p> Whether you want to learn something new or sound intelligent at your next party, 67 Useless Facts is here to help you out. From facts about cooking, to the ocean, even to presidents, you'll be sure to impress anyone with your insanely specific knowldege about random topics.</p>
   <br>
   <p>In order to make your learning experience easier, click one of the links below to take you to a topic that you are interested in.</p>
-  <table>
-    <tr>
-      <th>Topics</th>
-    </tr>
-    <tr>
-      <td>History</td>
-    </tr>
-    <tr>
-      <td>Math</td>
-    </tr>
-    <tr>
-      <td>Science</td>
-    </tr>
-  </table>
+  <ul>Topics</ul>
+    <li>History</li>
+    <li>Math</li>
+    <li>Science</li>
+    <li>Literature</li>
+    <li>The Arts</li>
+    <li>The Planets</li>
+    <li>Languages</li>
+    <li>Humans</li>
+    <li>Animals</li>
+<h2>Happy Learning!</<h2>
 </section>
 </html>
 
