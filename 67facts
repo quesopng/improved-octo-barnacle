@@ -14,7 +14,7 @@
   text-align: center;
   font-weight: 100px;
   margin: auto;
-  padding: 200px 100px;
+  padding: 20px 10px;
   max-width: 700px;
   max-height: 300px;
   overflow: scroll;
@@ -23,29 +23,42 @@
  h2{
    color: rgb(173, 230, 187);
    font-size: 50px;
-   line-height: 100px;
+   line-height: 10px;
    font-spacing: 50px;
    font-family: 'Karla', sans-serif;
    text-align: center;
    font-weight: 75px;
    font-style: bold;
    margin: auto;
-   padding: 100px;
+   padding: 10px;
    max-width: 700px;
    max-height: 100px;
    overflow: scroll;
  }
- .introparagraph {
-   color: rgb(173, 230, 187)
+ p {
+   color: rgb(173, 230, 187);
    font-size: 25px;
-   line-height: 100px;
-   font-spacing: 60px;
+   line-height: 10px;
+   font-spacing: 6px;
    font-family: 'Karla', sans-serif;
    text-align: center;
    font-weight: 75px;
    font-style: italics;
    margin: auto;
-   padding: 100px;
+   padding: 10px;
+   overflow: scroll;
+ }
+ h3{
+   color: rgb(173, 230, 187);
+   font-size: 50px;
+   line-height: 10px;
+   font-spacing: 20px;
+   font-family: 'Karla', sans-serif;
+   text-align: center;
+   font-weight: 75px;
+   font-style: bold;
+   margin: auto;
+   padding: auto;
    overflow: scroll;
  }
 </style>
@@ -58,7 +71,7 @@
 </header>  
 <section>
   <h2>67 Useless facts is a website created to showing you 67 random facts about any topic </h2>
-  <p class="introparagraph"> Whether you want to learn something new or sound intelligent at your next party, 67 Useless Facts is here to help you out. From facts about cooking, to the ocean, even to presidents, you'll be sure to impress anyone with your insanely specific knowldege about random topics.</p>
+  <p> Whether you want to learn something new or sound intelligent at your next party, 67 Useless Facts is here to help you out. From facts about cooking, to the ocean, even to presidents, you'll be sure to impress anyone with your insanely specific knowldege about random topics.</p>
   <br>
   <p>In order to make your learning experience easier, click one of the links below to take you to a topic that you are interested in.</p>
   <ul>Topics</ul>
