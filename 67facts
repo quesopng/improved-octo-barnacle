@@ -3,7 +3,7 @@
 <style>
  @font-face {
   font-family: 'Karla';
-  src: url('https://fonts.googleapis.com/css2?family=Karla:ital@1&display=swap') format('truetype')
+  src: url('https://fonts.googleapis.com/css2?family=Karla:ital@1&display=swap') format('truetype');
  }
  h1 {
   color: rgb(173, 216, 230);
